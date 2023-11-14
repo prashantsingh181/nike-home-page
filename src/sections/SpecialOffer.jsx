@@ -1,3 +1,4 @@
+import React from "react";
 import { arrowRight } from "../assets/icons";
 import { offer } from "../assets/images";
 import Button from "../components/Button";

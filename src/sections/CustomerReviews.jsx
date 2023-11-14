@@ -1,3 +1,4 @@
+import React from "react";
 import { reviews } from "../constants";
 import ReviewCard from "../components/ReviewCard";
 
